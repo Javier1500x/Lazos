@@ -1,0 +1,11 @@
+{
+  "builds": [
+    {
+      "src": "backend/package.json",
+      "use": "@railway/container-builder"
+    }
+  ],
+  "deploy": {
+    "startCommand": "cd backend && npm start"
+  }
+}
