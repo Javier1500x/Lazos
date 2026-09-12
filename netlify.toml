@@ -8,7 +8,7 @@
 
 [[redirects]]
   from = "/api/*"
-  to = "https://lazos.up.railway.app/api/:splat"
+  to = "https://lazos-production-2231.up.railway.app/api/:splat"
   status = 200
 
 [[redirects]]
